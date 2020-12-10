@@ -2,7 +2,7 @@
 
 Messing around with Spotify's Web API to analyze a user's saved songs
 
-Gets the following information from a users library:
+Gets the following information from a user's library:
 1. Fastest and slowest
 2. Most and least energetic song
 3. Most and least danceable song
