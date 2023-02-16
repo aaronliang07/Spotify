@@ -1,6 +1,6 @@
 # Spotify_API
 
-Messing around with Spotify's Web API to analyze a user's saved songs
+Experimenting with Spotify's Web API to analyze a user's saved songs
 
 Gets the following information from a user's library:
 1. Fastest and slowest
